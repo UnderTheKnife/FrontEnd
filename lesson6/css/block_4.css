@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+h2.block {
+    text-align: right;
+}
+p {
+    text-align: justify;
+}
+p#second {
+    text-align: center;
+}
+th {
+    text-align: left;
+}
+td {
+    text-align: center;
+}
+table {
+    width: 400px;
+    height: 200px;
+}

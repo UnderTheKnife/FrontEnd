@@ -1,0 +1,10 @@
+td {
+    vertical-align: text-top;
+}
+th {
+vertical-align: middle;
+}
+table {
+    width: 400px;
+    height: 200px;
+}

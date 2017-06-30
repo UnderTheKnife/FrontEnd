@@ -1,0 +1,25 @@
+ul {
+    list-style-type: none;
+    list-style-position: inside;
+    padding: 0px;
+    margin: 0px;
+    width: 200px;
+}
+.menu li {
+    margin-bottom: 5px;
+}
+.menu a:link, .menu a:visited {
+    border: 1px solid #0081E7   ;
+    text-decoration: none;
+    font: 13px/30px Arial;
+    padding: 0px 5px;
+    font-weight: bold;
+    display: block;
+    color: #ffffff;
+    background-color: #0081E7;
+
+}
+.menu a:hover , .menu a:link.active, .menu a:visited.active{
+    color: #0000ff;
+    background: #ffffff url("../images/block_4.png") no-repeat 90% center;
+}

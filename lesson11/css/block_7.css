@@ -1,0 +1,51 @@
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+.menu li {
+    margin-right: 13px;
+    display: inline-block
+}
+/*link & visited*/
+.menu a:link, .menu  a:visited {
+    text-decoration: none;
+    color: #CBCBCB;
+    padding-top: 30px;
+    display: block;
+}
+.menu .l1 a:link, .menu .l1 a:visited {
+background: url("../images/block_7_1.png") no-repeat top center;
+}
+.menu .l2 a:link, .menu .l2 a:visited {
+    background: url("../images/block_7_2.png") no-repeat top center;
+}
+.menu .l3 a:link, .menu .l3 a:visited {
+    background: url("../images/block_7_3.png") no-repeat top center;
+}
+.menu .l4 a:link, .menu .l4 a:visited {
+    background: url("../images/block_7_4.png") no-repeat top center;
+}
+.menu .l5 a:link, .menu .l5 a:visited {
+    background: url("../images/block_7_5.png") no-repeat top center;
+}
+/*hover*/
+.menu a:hover {
+    color: #0099ff;
+}
+.menu .l1 a:hover {
+    background: url("../images/block_7_1_1.png") no-repeat top center;
+}
+.menu .l2 a:hover {
+    background: url("../images/block_7_2_1.png") no-repeat top center;
+}
+.menu .l3 a:hover {
+    background: url("../images/block_7_3_1.png") no-repeat top center;
+}
+.menu .l4 a:hover {
+    background: url("../images/block_7_4_1.png") no-repeat top center;
+}
+.menu .l5 a:hover {
+    background: url("../images/block_7_5_1.png") no-repeat top center;
+}
+
+

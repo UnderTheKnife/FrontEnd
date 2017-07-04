@@ -1,0 +1,57 @@
+footer {
+    width: 100%;
+    height: 270px;
+    background: url("../img/footer.png");
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#logo {
+    width: 470px;
+    height: 100%;
+    text-align: left;
+    padding: 50px 100px;
+    box-sizing: border-box;
+    line-height: 20px;
+
+}
+#logo .logo {
+    width: 100px;
+    height: 35px;
+    display: inline-block;
+    background: url("../img/logo.png");
+    background-repeat: no-repeat;
+
+}
+#form {
+    width: 370px;
+    height: 100%;
+    padding: 50px 100px;
+    box-sizing: border-box;
+}
+#form h3 {
+    margin: 0;
+    color: #fefefe;
+}
+#email_field {
+    width: 127px;
+    height: 30px;
+    border-radius: 0;
+    border: 0;
+    padding: 0 10px;
+    box-sizing: border-box;
+    background: url("../img/email_field.png");
+    color: #fefefe;
+}
+#ok {
+    width: 40px;
+    height: 30px;
+    border-radius: 0;
+    border: 0;
+    background: url("../img/ok_button.png");
+    color: #fefefe;
+}
+#form .form {
+    display: flex;
+    justify-content: space-between;
+}

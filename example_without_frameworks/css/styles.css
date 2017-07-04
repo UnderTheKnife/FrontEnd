@@ -1,0 +1,10 @@
+#container {
+    width: 1170px;
+    margin: 123px auto 80px;
+    font-family: Arial;
+    color: #5f5b5b;
+    background: url("../img/bg.png");
+}
+p {
+    font-size: 13px;
+}

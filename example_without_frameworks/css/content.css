@@ -1,0 +1,84 @@
+#content {
+    padding:  0 85px;
+    width: 100%;
+    top: 80px;
+    box-sizing: border-box;
+}
+#intro, #call_to_action {
+    width: 630px;
+    padding-top: 27px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+#intro p , #call_to_action p {
+    margin: 0;
+}
+#content .line {
+    margin: 23px 15px;
+    height: 1px;
+    background: url("../img/line.png");
+    background-repeat: repeat-x;
+}
+#articles {
+    display: flex;
+    flex-wrap: wrap;
+}
+#articles .article {
+    width: 470px;
+    height: 400px;
+    margin:15px;
+    padding: 9px 0;
+}
+#articles .article .image {
+    width: 470px;
+    height: 240px;
+}
+#articles .article .image-1{
+    background: url("../img/article_1.png");
+    background-position: center center;
+}
+#articles .article .image-2{
+    background: url("../img/article_2.png");
+    background-position: center center;
+}
+#articles .article .image-3{
+    background: url("../img/article_3.png");
+    background-position: center center;
+}
+#articles .article .image-4{
+    background: url("../img/article_4.png");
+    background-position: center center;
+}
+#articles .article .image-5{
+    background: url("../img/article_5.png");
+    background-position: center center;
+}
+#articles .article h3 {
+    font-size: 15px;
+}
+
+#articles .article a:link, #articles .article a:visited {
+    color: #86b670;
+    font-size: 13px;
+    text-decoration: none;
+}
+#articles .article a:hover {
+    text-decoration: underline;
+}
+#call_to_action a:link, #call_to_action a:visited{
+    background: url("../img/button.png");
+    margin: 19px 0;
+    display: inline-block;
+    line-height: 30px;
+    font-size: 12px;
+    width: 170px;
+    height: 30px;
+    color: #ffffff;
+    text-decoration: none;
+    border: 1px solid #86b670;
+}
+#call_to_action a:hover {
+    color: #86b670;
+    background: url("../img/bg.png");
+}

@@ -1,0 +1,14 @@
+header {
+    width: 1170px;
+    background: url("../img/header.png");
+    background-position: -52px -287px;
+    background-repeat: no-repeat;
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+header h1 {
+    margin: 0 100px;
+    color: #fefefe;
+}

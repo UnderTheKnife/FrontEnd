@@ -1,0 +1,45 @@
+.footer {
+    height: 270px;
+    background: url("../img/footer.png");
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.footer .row {
+    padding-top: 50px;
+}
+.logo {
+    width: 100px;
+    height: 35px;
+    display: inline-block;
+    background: url("../img/logo.png");
+    background-repeat: no-repeat;
+
+}
+.footer p, .footer h3 {
+    color: #fefefe;
+    margin-top: 0;
+}
+#email_field {
+    width: 127px;
+    height: 30px;
+    border-radius: 0;
+    border: 0;
+    padding: 0 10px;
+    box-sizing: border-box;
+    background: url("../img/email_field.png");
+    color: #fefefe;
+}
+#ok {
+    margin-left: 5px;
+    width: 40px;
+    height: 30px;
+    border-radius: 0;
+    border: 0;
+    background: url("../img/ok_button.png");
+    color: #fefefe;
+}
+.form {
+    display: flex;
+    justify-content: space-between;
+}

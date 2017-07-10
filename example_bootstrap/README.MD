@@ -1,6 +1,6 @@
-##Example bootstrap
+## Example bootstrap
 
-###Installation
+### Installation
 Before run this you must install `node.js` and `npm`: \
 Node.js 6:
 ```
@@ -17,8 +17,9 @@ Http-server install:
 ```
      npm install http-server -g
 ```
-###Launching
-You must install packages from `package.json`. Run on project folder:
+### Launching
+You must install packages from `package.json`. \
+Run on project folder:
 ```
     npm install
 ```

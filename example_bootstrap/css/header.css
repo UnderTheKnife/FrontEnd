@@ -1,14 +1,9 @@
-.navbar {
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    border-radius: 0;
-}
-.header {
+#header {
     background: url("../img/header.png");
     background-position: -52px -287px;
     background-repeat: no-repeat;
     height: 75px;
 }
-.header h1 {
+#header h1 {
     color: #fefefe;
 }

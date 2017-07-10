@@ -1,12 +1,10 @@
-.footer {
-    height: 270px;
+#footer {
+    min-height: 270px;
     background: url("../img/footer.png");
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    padding-bottom: 50px;
 }
-.footer .row {
-    padding-top: 50px;
+.logo-div, .form-div{
+    margin-top: 50px;
 }
 .logo {
     width: 100px;
@@ -14,9 +12,8 @@
     display: inline-block;
     background: url("../img/logo.png");
     background-repeat: no-repeat;
-
 }
-.footer p, .footer h3 {
+#footer p, #footer h3 {
     color: #fefefe;
     margin-top: 0;
 }
@@ -41,5 +38,5 @@
 }
 .form {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
 }

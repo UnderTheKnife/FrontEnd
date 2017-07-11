@@ -1,0 +1,51 @@
+div p {
+
+}
+div h2.block {
+
+}
+#test p {
+
+}
+#test h2.block {
+
+}
+.bbb {
+
+}
+#test .bbb {
+
+}
+p.bbb {
+
+}
+h2.block.bbb {
+
+}
+#test p.bbb {
+
+}
+.bbb, .xxx {
+
+}
+p.bbb, h2.block.xxx {
+
+}
+#test p.bbb, #test p.xxx {
+
+}
+.fff{
+
+}
+.fff p {
+
+}
+p.fff {
+
+}
+.fff .bbb {
+
+}
+.fff h2.block.bbb {
+
+}

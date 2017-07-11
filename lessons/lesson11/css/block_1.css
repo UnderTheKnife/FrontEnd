@@ -1,0 +1,18 @@
+.test {
+    color: #0000ff;
+}
+.test ul {
+    color: #0000ff;
+    list-style-position: inside;
+    padding: 0px;
+    margin: 0px;
+}
+.test a:link, .test a:visited {
+    text-decoration: none;
+    color: #0000ff;
+    font: 13px Arial;
+}
+.test a:hover {
+    text-decoration: underline;
+    color: #ff0000;
+}

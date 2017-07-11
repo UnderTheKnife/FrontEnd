@@ -1,0 +1,9 @@
+.first {
+    text-decoration: underline;
+}
+.second {
+    text-decoration: line-through;
+}
+.third {
+    text-decoration: overline;
+}

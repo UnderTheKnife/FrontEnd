@@ -1,0 +1,33 @@
+.calendar a:link, .calendar a:visited {
+    color:#506361;
+    text-decoration: none;
+}
+.calendar a:hover {
+    color:#506361;
+    text-decoration: underline;
+}
+.calendar a.holiday:link, .calendar a.holiday:visited {
+    color:#8CA2C1;
+}
+.calendar a {
+    font-family: Arial;
+    font-size: 12px;
+    line-height: 1; 
+}
+.calendar {
+    width: 150px;
+    margin: 20px 0px;
+}
+.calendar table {
+    width: 100%;
+    height: 100%;
+}
+.calendar td {
+    text-align: center;
+}
+.calendar th {
+    border-bottom: 1px solid #000000;
+}
+.calendar a.active  {
+    color: red; font-weight: bold;
+}

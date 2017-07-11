@@ -1,0 +1,51 @@
+$footer-background: "../img/footer.png";
+$logo: "../img/logo.png";
+$email_field-background: "../img/email_field.png";
+$ok_button-background: "../img/ok_button.png";
+$text-color: #FEFEFE;
+
+@mixin border_reset{
+  border: 0;
+  border-radius: 0;
+}
+@mixin size($width, $height) {
+  width: $width;
+  height: $height;
+}
+
+.footer {
+  min-height: 270px;
+  background: url($footer-background);
+  padding-bottom: 50px;
+}
+.logo-div, .form-div{
+  margin-top: 50px;
+}
+.logo {
+  @include size(100px, 35px);
+  display: inline-block;
+  background: url($logo);
+  background-repeat: no-repeat;
+}
+.footer p, .footer h3 {
+  color: $text-color;
+  margin-top: 0;
+}
+.email_field {
+  @include size(127px, 30px);
+  @include border_reset;
+  padding: 0 10px;
+  box-sizing: border-box;
+  background: url($email_field-background);
+  color: $text-color;
+}
+.ok {
+  @include size(40px, 30px);
+  @include border_reset;
+  margin-left: 5px;
+  background: url($ok_button-background);
+  color: $text-color;
+}
+.form {
+  display: flex;
+}

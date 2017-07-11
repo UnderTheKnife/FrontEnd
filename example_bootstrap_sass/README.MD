@@ -29,7 +29,7 @@ For generate `styles.css` file run in project folder:
 ```
 Then you must start the local server:
 ```
-    http-server
+    http-server -o
 ```
 Now you can visit http://localhost:8080 to view your server
 

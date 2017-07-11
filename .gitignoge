@@ -1,5 +1,4 @@
-*/node_modules/
-example_bootstrap_sass/css/
+*/node_modules
+example_bootstrap_sass/css
 example_bootstrap_sass/*/*.css
-linters/
-
+example_bootstrap_sass/linters

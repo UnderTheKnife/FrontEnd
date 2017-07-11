@@ -2,56 +2,201 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10d98f5-8d38-40a6-b332-f6461b989a01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/article_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/article_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/article_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/article_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/article_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/email_field.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/header_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/img/ok_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/FrontEnd.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/sass/content.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/sass/footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/sass/header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_bootstrap_sass/sass/styles.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/css/block_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/css/block_2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/css/block_3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/css/block_4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/css/block_5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/html/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/html/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/html/block_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/html/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/html/block_5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/images/block_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson10/images/block_5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/css/block_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/css/block_2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/css/block_3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/css/block_4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/css/block_5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/css/block_6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/css/block_7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/css/block_8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/css/block_9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/html/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/html/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/html/block_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/html/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/html/block_5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/html/block_6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/html/block_7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/html/block_8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/html/block_9.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/images/block_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/images/block_7_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/images/block_7_1_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/images/block_7_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/images/block_7_2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/images/block_7_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/images/block_7_3_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/images/block_7_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/images/block_7_4_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/images/block_7_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson11/images/block_7_5_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/css/block_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/css/block_2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/css/block_3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/css/block_4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/css/block_5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/css/block_6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/css/block_7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/css/block_8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/html/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/html/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/html/block_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/html/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/html/block_5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/html/block_6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/html/block_7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/html/block_8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/images/block_2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/images/block_2_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson12/images/block_2_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/css/block_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/css/block_10.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/css/block_2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/css/block_3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/css/block_4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/css/block_5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/css/block_6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/css/block_7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/css/block_8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/css/block_9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/html/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/html/block_10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/html/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/html/block_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/html/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/html/block_5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/html/block_6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/html/block_7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/html/block_8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson13/html/block_9.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_10.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_11.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_12.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_13.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_14.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/css/block_9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_12.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_13.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_14.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson14/html/block_9.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/css/block_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/css/block_10.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/css/block_2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/css/block_3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/css/block_4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/css/block_5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/css/block_6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/css/block_7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/css/block_8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/css/block_9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/html/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/html/block_10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/html/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/html/block_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/html/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/html/block_5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/html/block_6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/html/block_7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/html/block_8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson15/html/block_9.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson2/bloc_6_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson2/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson2/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson2/block_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson2/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson2/block_5.1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson2/block_5.2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson2/block_5.3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson2/block_6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson3/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson3/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson3/block_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson3/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson4/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson4/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson4/block_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson4/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_10.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_11.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_12.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_13.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_14.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/css/block_9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_12.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_13.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_14.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/html/block_9.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson7/block_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson8/css/block_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson8/css/block_2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson8/css/block_3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson8/css/block_4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson8/html/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson8/html/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson8/html/block_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson8/html/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson9/css/block_1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson9/css/block_2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson9/css/block_4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson9/css/block_5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson9/html/block_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson9/html/block_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson9/html/block_4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson9/html/block_5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson9/images/block_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson9/images/block_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson9/images/block_5.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignoge" afterPath="$PROJECT_DIR$/.gitignoge" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/css/block_1.css" afterPath="$PROJECT_DIR$/lesson15/css/block_1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/css/block_10.css" afterPath="$PROJECT_DIR$/lesson15/css/block_10.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/css/block_2.css" afterPath="$PROJECT_DIR$/lesson15/css/block_2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/css/block_3.css" afterPath="$PROJECT_DIR$/lesson15/css/block_3.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/css/block_4.css" afterPath="$PROJECT_DIR$/lesson15/css/block_4.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/css/block_5.css" afterPath="$PROJECT_DIR$/lesson15/css/block_5.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/css/block_6.css" afterPath="$PROJECT_DIR$/lesson15/css/block_6.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/css/block_7.css" afterPath="$PROJECT_DIR$/lesson15/css/block_7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/css/block_8.css" afterPath="$PROJECT_DIR$/lesson15/css/block_8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/css/block_9.css" afterPath="$PROJECT_DIR$/lesson15/css/block_9.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/html/block_1.html" afterPath="$PROJECT_DIR$/lesson15/html/block_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/html/block_10.html" afterPath="$PROJECT_DIR$/lesson15/html/block_10.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/html/block_2.html" afterPath="$PROJECT_DIR$/lesson15/html/block_2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/html/block_3.html" afterPath="$PROJECT_DIR$/lesson15/html/block_3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/html/block_4.html" afterPath="$PROJECT_DIR$/lesson15/html/block_4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/html/block_5.html" afterPath="$PROJECT_DIR$/lesson15/html/block_5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/html/block_6.html" afterPath="$PROJECT_DIR$/lesson15/html/block_6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/html/block_7.html" afterPath="$PROJECT_DIR$/lesson15/html/block_7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/html/block_8.html" afterPath="$PROJECT_DIR$/lesson15/html/block_8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson15/html/block_9.html" afterPath="$PROJECT_DIR$/lesson15/html/block_9.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example_bootstrap/README.MD" afterPath="$PROJECT_DIR$/example_bootstrap/README.MD" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,69 +210,19 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2460">
-              <caret line="164" column="58" lean-forward="false" selection-start-line="164" selection-start-column="58" selection-end-line="164" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignoge" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignoge">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/content.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="2" lean-forward="false" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="readme" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Синий</find>
-      <find>l1</find>
-      <find>#menu9</find>
-      <find>holliday</find>
-      <find>{</find>
-      <find>h1</find>
-      <find>п</find>
-      <find>h2 a\:link\, h2 a\:visited\{\n    color\: \#E7458D\;\n\}</find>
-      <find>h2</find>
-      <find>&lt;/b&gt;</find>
       <find>relative</find>
       <find>2</find>
       <find>3</find>
@@ -148,6 +243,16 @@
       <find>id</find>
       <find>#</find>
       <find />
+      <find>../images</find>
+      <find>../image</find>
+      <find>../imag</find>
+      <find>../ima</find>
+      <find>../im</find>
+      <find>../i</find>
+      <find>../</find>
+      <find>../c</find>
+      <find>../cs</find>
+      <find>../css</find>
     </findStrings>
     <replaceStrings>
       <replace>th</replace>
@@ -178,9 +283,13 @@
       <replace>5</replace>
       <replace>class</replace>
       <replace>.</replace>
-      <replace>.</replace>
-      <replace />
+      <replace>images</replace>
+      <replace>css</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/lessons/lesson9</dir>
+      <dir>$PROJECT_DIR$/lessons</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -188,15 +297,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson14/css/block_12.css" />
-        <option value="$PROJECT_DIR$/lesson14/html/block_13.html" />
-        <option value="$PROJECT_DIR$/lesson14/css/block_13.css" />
-        <option value="$PROJECT_DIR$/lesson14/html/block_14.html" />
-        <option value="$PROJECT_DIR$/lesson14/css/block_14.css" />
-        <option value="$PROJECT_DIR$/lesson15/html/block_1.html" />
-        <option value="$PROJECT_DIR$/lesson15/css/block_1.css" />
-        <option value="$PROJECT_DIR$/lesson15/html/block_2.html" />
-        <option value="$PROJECT_DIR$/lesson15/css/block_2.css" />
         <option value="$PROJECT_DIR$/lesson15/css/block_3.css" />
         <option value="$PROJECT_DIR$/lesson15/html/block_3.html" />
         <option value="$PROJECT_DIR$/lesson15/html/block_4.html" />
@@ -239,6 +339,15 @@
         <option value="$PROJECT_DIR$/example_bootstrap_sass/sass/content.scss" />
         <option value="$PROJECT_DIR$/example_bootstrap_sass/package.json" />
         <option value="$PROJECT_DIR$/.gitignoge" />
+        <option value="$PROJECT_DIR$/lessons/lesson10/css/block_5.css" />
+        <option value="$PROJECT_DIR$/lessons/lesson11/css/block_4.css" />
+        <option value="$PROJECT_DIR$/lessons/lesson11/css/block_7.css" />
+        <option value="$PROJECT_DIR$/lessons/lesson9/css/block_2.css" />
+        <option value="$PROJECT_DIR$/lessons/lesson9/css/block_4.css" />
+        <option value="$PROJECT_DIR$/lessons/lesson9/css/block_5.css" />
+        <option value="$PROJECT_DIR$/lessons/lesson10/block_1.html" />
+        <option value="$PROJECT_DIR$/lessons/readme.md" />
+        <option value="$PROJECT_DIR$/example_bootstrap/README.MD" />
       </list>
     </option>
   </component>
@@ -250,7 +359,6 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/example_bootstrap/node_modules" />
-    <handled-path value="$PROJECT_DIR$/example_bootstrap_sass/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds">
@@ -277,6 +385,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -299,50 +409,12 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="example_bootstrap_sass" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrontEnd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrontEnd" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example_bootstrap_sass" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrontEnd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrontEnd" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example_bootstrap_sass" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="example_bootstrap" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -465,6 +537,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a10d98f5-8d38-40a6-b332-f6461b989a01" name="Default" comment="" />
@@ -490,7 +565,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127714000" />
+    <option name="totallyTimeSpent" value="128263000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -503,13 +578,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1922" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -517,13 +592,24 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="99" y="125" width="1722" height="856" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,83 +623,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson15/css/block_2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson15/css/block_4.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson15/html/block_4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson15/css/block_5.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson15/html/block_6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson15/css/block_6.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson15/html/block_7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson15/css/block_7.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson15/css/block_8.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson15/html/block_8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson15/html/block_5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson15/css/block_9.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -695,13 +704,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/.*scss/styles.css" />
-    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/styles.scss" />
     <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/Gulpfile.js" />
     <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/css/header.css" />
     <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/css/footer.css" />
@@ -733,11 +736,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/img/article_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/img/article_1.png" />
     <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1545">
@@ -746,56 +745,111 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/.sass-lint.yml" />
-    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2460">
-          <caret line="164" column="58" lean-forward="false" selection-start-line="164" selection-start-column="58" selection-end-line="164" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/index.html" />
+    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/header.scss" />
+    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/styles.scss" />
+    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/footer.scss" />
     <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/linters/sass-lint.html" />
-    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/content.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="2" lean-forward="false" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/sass/content.scss" />
+    <entry file="file://$PROJECT_DIR$/example_bootstrap_sass/package.json" />
     <entry file="file://$PROJECT_DIR$/.gitignoge">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson10/block_4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson10/css/block_5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson11/css/block_4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson11/css/block_7.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson12/block_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson9/css/block_2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson9/css/block_4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson9/css/block_5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_bootstrap/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="405">
+            <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/lesson10/block_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding />
         </state>
       </provider>

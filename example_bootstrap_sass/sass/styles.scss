@@ -1,13 +1,13 @@
 @import 'content';
 @import 'header';
 @import 'footer';
-$container-margin: 123px 0 80px;
 $zero-margin: 0;
 
 .row {
   margin: $zero-margin;
 }
 .container {
-  margin: $container-margin;
+  margin-top: 123px;
+  margin-bottom: 80px;
 }
 

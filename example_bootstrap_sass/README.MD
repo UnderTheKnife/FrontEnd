@@ -23,7 +23,7 @@ Run on project folder:
 ```
     npm install
 ```
-For generate `styles.css` file run:
+For generate `styles.css` file run in project folder:
 ```
     npm run scss
 ```
@@ -34,7 +34,7 @@ Then you must start the local server:
 Now you can visit http://localhost:8080 to view your server
 
 ### Syntax validate
-For check syntax with `sass-lint` run:
+For check syntax with `sass-lint` run in project folder:
 ```
     npm run sass-lint
 ```

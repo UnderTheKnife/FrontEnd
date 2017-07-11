@@ -1,0 +1,60 @@
+$line-background: "../img/line.png";
+$article_link-color: #86B670;
+
+@mixin article-image($url) {
+  background: url($url) no-repeat center center;
+  background-size: 100%;
+}
+
+.intro, .call_to_action {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.article {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.image {
+  display: inline-block;
+  width: 100%;
+  height: 240px;
+  max-width: 470px;
+}
+.image-1 {
+  @include article-image("../img/article_1.png");
+}
+.image-2 {
+  @include article-image("../img/article_2.png");
+}
+.image-3 {
+  @include article-image("../img/article_3.png");
+}
+.image-4 {
+  @include article-image("../img/article_4.png");
+}
+.image-5 {
+  @include article-image("../img/article_5.png");
+}
+.btn-success {
+  display: inline-block;
+  border-radius: 0;
+  width: 170px;
+}
+.line {
+  margin-top: 23px;
+  height: 1px;
+  background: url($line-background);
+  background-repeat: repeat-x;
+}
+.content a:link, .content a:visited {
+  color: $article_link-color;
+  text-decoration: none;
+}
+.content a:hover {
+  text-decoration: underline;
+}
+.button {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}

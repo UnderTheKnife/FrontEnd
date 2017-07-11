@@ -1,2 +1,5 @@
-.idea/
-example_bootstrap/node_modules
+*/node_modules/
+example_bootstrap_sass/css/
+example_bootstrap_sass/*/*.css
+linters/
+

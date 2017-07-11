@@ -1,0 +1,42 @@
+#wrapper {
+    border: 1px solid black;
+    width: 1000px;
+    margin: 0 auto;
+}
+#header {
+    border: 1px solid black;
+    height: 200px;
+    margin-bottom: 20px;
+}
+#left{
+    float: left;
+    width: 200px;
+    min-height: 700px;
+    margin-left: 20px;
+}
+.sidebar-left {
+    border: 1px solid black;
+    height: 200px;
+    margin-bottom: 20px;
+}
+#right{
+    float: right;
+    outline: 1px solid black;
+    width: 200px;
+    min-height: 700px;
+    margin-right: 20px;
+}
+
+#content {
+    outline: 1px solid black;
+    height: 700px;
+    margin: 0 240px;
+}
+#footer {
+    border: 1px solid black;
+    height: 200px;
+    margin-top: 20px;
+}
+.clearfix{
+    clear: both;
+}

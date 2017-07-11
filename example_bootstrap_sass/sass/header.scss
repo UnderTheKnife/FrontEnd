@@ -1,0 +1,12 @@
+$text-color: #FEFEFE;
+$header-background: "../img/header.png";
+
+.header {
+  background: url($header-background);
+  background-position: -52px -287px;
+  background-repeat: no-repeat;
+  height: 75px;
+}
+.header h1 {
+  color: $text-color;
+}

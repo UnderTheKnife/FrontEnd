@@ -1,14 +1,9 @@
 {
-  "name": "example_bootstrap",
+  "name": "lessons",
   "version": "1.0.0",
-  "description": "example bootstrap page",
-  "main": "index.html",
+  "description": "lessons",
   "scripts": {
     "start": "http-server -a localhost -p 8080 -o"
-  },
-  "dependencies": {
-    "bootstrap": "^3.3.7",
-    "jquery": "^3.2.1"
   },
   "devDependencies": {
     "http-server": "^0.10.0"

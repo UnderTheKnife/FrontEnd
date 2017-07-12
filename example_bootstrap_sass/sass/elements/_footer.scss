@@ -1,0 +1,45 @@
+footer {
+  min-height: 270px;
+  background: url($footer-background);
+  padding-bottom: 50px;
+
+  .logo-div,
+  .form-div {
+    margin-top: 50px;
+  }
+
+  .logo {
+    @include size(100px, 35px);
+    display: inline-block;
+    background: url($logo);
+    background-repeat: no-repeat;
+  }
+
+  p,
+  h3 {
+    color: $text-color;
+    margin-top: 0;
+  }
+
+  .email-field {
+    @include size(127px, 30px);
+    @include border-reset;
+    padding: 0 10px;
+    box-sizing: border-box;
+    background: url($email-field-background);
+    color: $text-color;
+  }
+
+  .ok {
+    @include size(40px, 30px);
+    @include border-reset;
+    margin-left: 5px;
+    background: url($ok-button-background);
+    color: $text-color;
+  }
+
+  form {
+    display: flex;
+  }
+
+}

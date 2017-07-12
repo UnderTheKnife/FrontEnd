@@ -1,59 +1,75 @@
 section {
+
   .intro,
-  .call_to_action {
+  .call-to-action {
     margin-top: 40px;
     margin-bottom: 40px;
     text-align: center;
   }
+
   .line {
     margin-top: 23px;
     height: 1px;
     background: url($line-background);
     background-repeat: repeat-x;
   }
+
   article {
+
     .post {
       margin-top: 40px;
       margin-bottom: 40px;
+
       .image {
         display: inline-block;
         width: 100%;
         height: 240px;
         max-width: 470px;
       }
+
       .image-1 {
-        @include article-image("../img/article_1.png");
+        @include article-image('../img/article_1.png');
       }
+
       .image-2 {
-        @include article-image("../img/article_2.png");
+        @include article-image('../img/article_2.png');
       }
+
       .image-3 {
-        @include article-image("../img/article_3.png");
+        @include article-image('../img/article_3.png');
       }
+
       .image-4 {
-        @include article-image("../img/article_4.png");
+        @include article-image('../img/article_4.png');
       }
+
       .image-5 {
-        @include article-image("../img/article_5.png");
+        @include article-image('../img/article_5.png');
       }
     }
+
     a {
+
       &:link,
       &:visited {
-        color: $article_link-color;
+        color: $article-link-color;
         text-decoration: none;
       }
+
       &:hover {
         text-decoration: underline;
       }
     }
   }
-  .call_to_action {
+
+  .call-to-action {
+
     .btn-success {
       display: inline-block;
       border-radius: 0;
       width: 170px;
     }
+
     .button {
       margin-top: 5px;
       margin-bottom: 5px;

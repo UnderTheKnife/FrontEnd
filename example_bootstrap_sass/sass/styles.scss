@@ -1,9 +1,10 @@
-@import "common/backgrounds";
-@import "common/colors";
-@import "common/mixins";
-@import 'elements/selection';
+@import 'common/backgrounds';
+@import 'common/colors';
+@import 'common/mixins';
+@import 'elements/section';
 @import 'elements/header';
 @import 'elements/footer';
+
 $zero-margin: 0;
 
 .row {
@@ -12,6 +13,5 @@ $zero-margin: 0;
 .container{
   margin-top: 123px;
   margin-bottom: 80px;
-
 }
 

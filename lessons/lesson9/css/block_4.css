@@ -1,0 +1,10 @@
+body {
+    background-repeat: repeat-y;
+    background-position: right top;
+    background-image: url(images/block_4.jpg);
+}
+p {
+    width: 500px;
+    text-align: justify;
+    font-weight: bold;
+}

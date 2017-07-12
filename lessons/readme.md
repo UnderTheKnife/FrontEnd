@@ -18,12 +18,7 @@ Http-server install:
      npm install http-server -g
 ```
 ### Launching
-You must install packages from `package.json`. \
-Run on project folder:
-```
-    npm install
-```
-Then you must start the local server:
+For run local server:
 ```
     http-server -o
 ```

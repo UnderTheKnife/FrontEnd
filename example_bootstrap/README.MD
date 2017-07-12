@@ -25,7 +25,6 @@ Run on project folder:
 ```
 Then you must start the local server:
 ```
-    http-server -o
+    npm run start
 ```
-Now you can visit http://localhost:8080 to view your server
 

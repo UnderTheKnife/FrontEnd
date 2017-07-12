@@ -1,4 +1,4 @@
-## Example bootstrap
+## Lessonns
 
 ### Installation
 Before run this you must install `node.js` and `npm`: \
@@ -13,14 +13,14 @@ Node.js 8:
     curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash - 
     sudo apt-get install -y nodejs
 ```
-Http-server install:
+You must install packages from `package.json`. \
+Run on project folder:
 ```
-     npm install http-server -g
+    npm install
 ```
 ### Launching
 For run local server:
 ```
-    http-server -o
+    npm run start
 ```
-Now you can visit http://localhost:8080 to view your server
 

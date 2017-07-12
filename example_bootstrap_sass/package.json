@@ -4,15 +4,18 @@
   "description": "example bootstrap page",
   "main": "index.html",
   "scripts": {
-    "scss": "node-sass -o css sass/styles.scss",
+    "scss": "node-sass -o css sass/styles.scss && echo 'example_bootstrap_sass/css'>>../.gitignore",
     "sass-lint": "sass-lint  sass/*.scss -v -q && echo ok || echo not ok",
-    "start": "http-server -o"
+    "start": "./node_modules/.bin/http-server -a localhost -p 8000 -o"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "node-sass": "^4.5.3",
+    "sass-lint": "^1.10.2"
   },
   "devDependencies": {
-    "bootstrap": "^3.3.7",
-    "node-sass": "^4.5.3",
-    "sass-lint": "^1.10.2",
-    "jquery": "^3.2.1"
+    "http-server": "^0.10.0"
   },
   "author": "",
   "license": "ISC"

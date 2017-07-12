@@ -1,13 +1,17 @@
-@import 'content';
-@import 'header';
-@import 'footer';
+@import "common/backgrounds";
+@import "common/colors";
+@import "common/mixins";
+@import 'elements/selection';
+@import 'elements/header';
+@import 'elements/footer';
 $zero-margin: 0;
 
-.row {
-  margin: $zero-margin;
-}
-.container {
+
+.container{
   margin-top: 123px;
   margin-bottom: 80px;
+  .row {
+    margin: $zero-margin;
+  }
 }
 

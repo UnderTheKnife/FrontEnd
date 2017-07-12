@@ -1,5 +1,6 @@
 section {
-  .intro, .call_to_action {
+  .intro,
+  .call_to_action {
     margin-top: 40px;
     margin-bottom: 40px;
     text-align: center;
@@ -36,12 +37,15 @@ section {
         @include article-image("../img/article_5.png");
       }
     }
-    a:link, a:visited {
-      color: $article_link-color;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
+    a {
+      &:link,
+      &:visited {
+        color: $article_link-color;
+        text-decoration: none;
+      }
+      &:hover {
+        text-decoration: underline;
+      }
     }
   }
   .call_to_action {

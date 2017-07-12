@@ -6,12 +6,12 @@
 @import 'elements/footer';
 $zero-margin: 0;
 
-
+.row {
+  margin: $zero-margin;
+}
 .container{
   margin-top: 123px;
   margin-bottom: 80px;
-  .row {
-    margin: $zero-margin;
-  }
+
 }
 

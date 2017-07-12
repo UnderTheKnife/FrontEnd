@@ -3,7 +3,8 @@ footer {
   background: url($footer-background);
   padding-bottom: 50px;
 
-  .logo-div, .form-div {
+  .logo-div,
+  .form-div {
     margin-top: 50px;
   }
   .logo {
@@ -12,7 +13,8 @@ footer {
     background: url($logo);
     background-repeat: no-repeat;
   }
-  p, h3 {
+  p,
+  h3 {
     color: $text-color;
     margin-top: 0;
   }
@@ -31,7 +33,7 @@ footer {
     background: url($ok_button-background);
     color: $text-color;
   }
-  .form {
+  form {
     display: flex;
   }
 }

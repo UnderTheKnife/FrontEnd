@@ -5,7 +5,8 @@
   "main": "index.html",
   "scripts": {
     "scss": "node-sass -o css sass/styles.scss",
-    "sass-lint": "sass-lint  sass/*.scss -v -q && echo ok || echo not ok"
+    "sass-lint": "sass-lint  sass/*.scss -v -q && echo ok || echo not ok",
+    "start": "http-server -o"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
